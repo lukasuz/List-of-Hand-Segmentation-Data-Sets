@@ -1,5 +1,5 @@
 # List of Hand Segmentation Data Sets
-I found that some of these data sets not that easy to find, so I hope this list will help somebody in the future. Feel free to contribute.
+I found that some of these data sets are not that easy to find, so I hope this list will help somebody in the future. Feel free to contribute.
 
 ### Data Sets
 #### EgoHands
@@ -33,6 +33,6 @@ Source: http://www.ouhands.oulu.fi/
 Source: https://lmb.informatik.uni-freiburg.de/resources/datasets/RenderedHandposeDataset.en.html
 
 #### HandSeg Depth Data set *not yet available?*
-I can not find the data set, although the paper states that they want to make the data set publicly avaiable. Therefore, this serves as a placeholder. It contains segmentation masks generated from depth images.
+I can not find the data set, although the paper states that they want to make the data set publicly available. Therefore, this serves as a placeholder. It contains segmentation masks generated from depth images.
 
 Source: https://arxiv.org/abs/1711.05944
